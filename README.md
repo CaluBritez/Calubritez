@@ -1,12 +1,12 @@
 # Hello 🌎 I'm <a href="">Calu</a> 👋
 
-Lover of React💙 and Node💚 for my applications, but I have worked with other technologies. I adapt and learn according to my needs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Lover of React💙 and Node💚 for my applications, but I have worked with other technologies. I adapt and learn according to my needs
 
 - 💻 Founder of [SolucionesInteligentes](https://)
 
-- 🎓 Graduated "Técnico en Desarrollo de Software Multiplataforma" at the "Instituto Politécnico Formosa" (Formosa, Argentina) 2024
+- 🎓 Graduated as "Técnico en Desarrollo de Software Multiplataforma" at the "Instituto Politécnico Formosa" (Formosa, Argentina) 2024
 
-- 🏭 I worked as an Industrial Engineer at "Bolognino S.A." (Córdoba, Argentina) 2016 - 2022
+- 🏭 I worked as Industrial Engineer at "Bolognino S.A." (Córdoba, Argentina) 2016 - 2022
 
 # Contact
 
