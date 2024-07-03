@@ -9,10 +9,9 @@ Lover of React💙 and Node💚 for my applications, but I have worked with othe
 - 🏭 I worked as Industrial Engineer at "Bolognino S.A." (Córdoba, Argentina) 2016 - 2022
 
 # Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgastonbritez){:target="_blank"}
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:britez_lg@outlook.com){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbritez/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgastonbritez)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:britez_lg@outlook.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbritez/)
 
 # Skills
 
