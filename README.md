@@ -2,7 +2,8 @@
 
 Lover of React💙 and Node💚 for my applications, but I have worked with other technologies. I adapt and learn according to my needs
 
-- 💻 Founder of [SolucionesInteligentes](https://)
+- ⚖️ Currently working at Poder Judicial Formosa
+- 🎮 Full Stack Developer at Órbita Lab
 
 - 🎓 Graduated as "Técnico en Desarrollo de Software Multiplataforma" at the "Instituto Politécnico Formosa" (Formosa, Argentina) 2024
 
@@ -35,6 +36,7 @@ Lover of React💙 and Node💚 for my applications, but I have worked with othe
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
@@ -67,6 +69,7 @@ Lover of React💙 and Node💚 for my applications, but I have worked with othe
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat&logo=autodesk&logoColor=white)
+
 
 
 
