@@ -3,7 +3,7 @@
 Lover of React💙 and Node💚 for my applications, but I have worked with other technologies. I adapt and learn according to my needs
 
 - ⚖️ Currently working at Poder Judicial Formosa
-- 🎮 Full Stack Developer at Órbita Lab
+- 🎮 Full Stack Developer at Push Software and Órbita Lab
 
 - 🎓 Graduated as "Técnico en Desarrollo de Software Multiplataforma" at the "Instituto Politécnico Formosa" (Formosa, Argentina) 2024
 
